@@ -12,4 +12,3 @@
 # If you need to remove your website from this list, send an email to iurcaberciudarius@gmail.com and we we'll analyse your website again.
 
 0.0.0.0 *.sputnik.md
-0.0.0.0 *.pov21.ro
