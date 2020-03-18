@@ -6,7 +6,5 @@ You can use this list with uBlock Origin or with other software that utilises bl
 Email me at iurcaberciudarius@gmail.com or use twitter: @dariusiurca .
 
 # For website administrators:
-We will notify that your website will be included in this block-list before including it.
-
 If you need to remove your website from this list, send an email to iurcaberciudarius@gmail.com and we we'll analyse your website again.
 
