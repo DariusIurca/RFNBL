@@ -11,3 +11,4 @@ If you need to remove your website from this list, send an email to iurcaberciud
 
 0.0.0.0 *.sputnik.md
 0.0.0.0 *.cocoon.ro
+0.0.0.0 *.stiridemoment.ro
