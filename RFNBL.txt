@@ -12,27 +12,34 @@ If you need to remove your website from this list, send an email to iurcaberciud
 #sputnik.md
 0.0.0.0 sputnik.md
 0.0.0.0 *.sputnik.md
+||spunik.md
 
 #cocoon.ro
 0.0.0.0 cocoon.ro
 0.0.0.0 *.cocoon.ro
+||cocoon.ro
 
 #stiridemoment.ro
 0.0.0.0 stiridemoment.ro
 0.0.0.0 *.stiridemoment.ro
+||stiridemoment.ro
 
 #bugetul.ro
 0.0.0.0 bugetul.ro
 0.0.0.0 *.bugetul.ro
+||bugetul.ro
 
 #vremuritulburi.com
 0.0.0.0 vremuritulburi.com
 0.0.0.0 *.vremuritulburi.com
+||vremuritulburi.com
 
 #cunoastelumea.ro
 0.0.0.0 cunoastelumea.ro
 0.0.0.0 *.cunoastelumea.ro
+||cunoastelumea.ro
 
 #activenews.ro
 0.0.0.0 activenews.ro
 0.0.0.0 *.activenews.ro
+||activenews.ro
