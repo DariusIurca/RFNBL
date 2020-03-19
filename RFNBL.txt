@@ -9,10 +9,30 @@
 # For website administrators:
 If you need to remove your website from this list, send an email to iurcaberciudarius@gmail.com and we we'll analyse your website again.
 
+#sputnik.md
 0.0.0.0 sputnik.md
+0.0.0.0 *.sputnik.md
+
+#cocoon.ro
 0.0.0.0 cocoon.ro
+0.0.0.0 *.cocoon.ro
+
+#stiridemoment.ro
 0.0.0.0 stiridemoment.ro
+0.0.0.0 *.stiridemoment.ro
+
+#bugetul.ro
 0.0.0.0 bugetul.ro
+0.0.0.0 *.bugetul.ro
+
+#vremuritulburi.com
 0.0.0.0 vremuritulburi.com
+0.0.0.0 *.vremuritulburi.com
+
+#cunoastelumea.ro
 0.0.0.0 cunoastelumea.ro
+0.0.0.0 *.cunoastelumea.ro
+
+#activenews.ro
 0.0.0.0 activenews.ro
+0.0.0.0 *.activenews.ro
