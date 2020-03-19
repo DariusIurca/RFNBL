@@ -51,3 +51,8 @@ If you need to remove your website from this list, send an email to iurcaberciud
 0.0.0.0 nationalisti.ro
 0.0.0.0 *.nationalisti.ro
 ||nationalisti.ro
+
+#searchnewsglobal.wordpress.com
+0.0.0.0 searchnewsglobal.wordpress.com
+0.0.0.0 *.searchnewsglobal.wordpress.com
+||searchnewsglobal.wordpress.com
