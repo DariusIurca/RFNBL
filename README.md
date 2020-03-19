@@ -1,8 +1,12 @@
 # RFNBL-Romanian-Fake-News-Block-List
-This is a list which contains fake-news and clickbait sites.
+This is a list which contains romanian fake-news and clickbait sites.
 You can use this list with uBlock Origin or with other software that utilises block-lists.
 
 # To report a fake-news website:
+Make a pull request with the reported website included.
+
+OR
+
 Email me at iurcaberciudarius@gmail.com or use twitter: @dariusiurca .
 
 # For website administrators:
