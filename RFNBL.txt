@@ -46,3 +46,8 @@ If you need to remove your website from this list, send an email to iurcaberciud
 0.0.0.0 activenews.ro
 0.0.0.0 *.activenews.ro
 ||activenews.ro
+
+#nationalisti.ro
+0.0.0.0 nationalisti.ro
+0.0.0.0 *.nationalisti.ro
+||nationalisti.ro
