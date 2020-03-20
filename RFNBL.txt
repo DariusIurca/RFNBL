@@ -61,3 +61,8 @@ lovendal.ro
 0.0.0.0 lovendal.ro
 0.0.0.0 *.lovendal.ro
 ||lovendal.ro
+
+money.ro
+0.0.0.0 money.ro
+0.0.0.0 *.money.ro
+||money.ro
