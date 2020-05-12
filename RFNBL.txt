@@ -66,3 +66,18 @@ money.ro
 0.0.0.0 money.ro
 0.0.0.0 *.money.ro
 ||money.ro
+
+ortodoxinfo.net
+0.0.0.0 ortodoxinfo.net
+0.0.0.0 *.ortodoxinfo.net
+||ortodoxinfo.net
+
+ortodoxinfo.ro
+0.0.0.0 ortodoxinfo.ro
+0.0.0.0 *.ortodoxinfo.ro
+||ortodoxinfo.net
+
+ortodox.info.ro
+0.0.0.0 ortodox.info.ro
+0.0.0.0 *.ortodox.info.ro
+||ortodoxinfo.net
