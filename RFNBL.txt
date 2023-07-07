@@ -10,7 +10,7 @@
 # Email me at iurcaberciudarius@gmail.com or use twitter: @dariusiurca .
 
 # For website administrators:
-If you need to remove your website from this list, send an email to iurcaberciudarius@gmail.com and we we'll analyse your website again.
+#If you need to remove your website from this list, send an email to iurcaberciudarius@gmail.com and we will analyse your website again.
 
 sputnik.md
 0.0.0.0 sputnik.md
